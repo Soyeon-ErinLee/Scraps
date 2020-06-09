@@ -1,5 +1,6 @@
 # Comparing time elapsed for solve() and fwdsolve/bwdsolve
 # Using solve() in R is not efficient!
+# Idea of Gaussian Elimination
 
 A=matrix(1:1000000, c(1000,1000))
 A[upper.tri(A)]=0
