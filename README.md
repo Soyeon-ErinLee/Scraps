@@ -1,1 +1,1 @@
-# Scraps, ignorable
+# Ignorable, but worth keeping
