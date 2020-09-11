@@ -1,1 +1,1 @@
-# Ignorable, but worth keeping
+# Negligible, but worth keeping
