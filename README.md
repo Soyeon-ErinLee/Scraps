@@ -4,4 +4,7 @@
   - Python practices
 
 **Programmers**
-  - Coding test practices
+  - 코딩테스트 연습
+
+**Jupyter Practice**
+  - Playing with Jupyter Notebook w/ Kaggle data
