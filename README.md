@@ -6,5 +6,8 @@
 **Programmers**
   - 코딩테스트 연습
 
-**Jupyter Practice**
+**Python Practice**
   - Playing with Jupyter Notebook w/ Kaggle data
+
+**Wafer Defect Pattern Classification**
+  -  202202 Thesis
